@@ -1,0 +1,100 @@
+image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
+download (1).jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/download (1).jpg,58,35,173,277,3,0.4212404489517212,182,277
+download (1).jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/download (1).jpg,59,102,155,251,3,0.4747031331062317,182,277
+download (1).jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/download (1).jpg,3,7,86,93,3,0.8573538064956665,182,277
+s5.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/s5.jpg,14,31,59,61,6,0.4593283534049988,186,271
+s2.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/s2.jpg,98,85,156,96,6,0.8207342624664307,184,273
+12.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/12.jpg,140,206,187,222,0,0.5526819229125977,187,270
+12.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/12.jpg,0,51,187,143,0,0.6289774179458618,187,270
+download (10).jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/download (10).jpg,74,37,147,140,3,0.5880720615386963,183,275
+22.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/22.jpg,79,17,167,146,1,0.8275018930435181,259,195
+7.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/7.jpg,127,36,245,185,0,0.6757150292396545,259,194
+download (2).jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/download (2).jpg,13,36,137,211,3,0.5916153192520142,184,273
+h3.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/h3.jpg,43,40,143,99,4,0.5921899676322937,183,275
+h3.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/h3.jpg,56,0,131,143,4,0.8370075821876526,183,275
+20.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/20.jpg,44,146,134,270,1,0.7541786432266235,184,274
+37.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/37.jpg,79,15,180,94,2,0.47710731625556946,184,274
+2.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/2.jpg,5,24,85,208,0,0.9013535976409912,184,273
+11.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/11.jpg,19,70,66,128,0,0.4499514698982239,300,168
+25.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/25.jpg,0,90,184,228,1,0.5621612668037415,184,273
+download.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/download.jpg,76,43,110,196,3,0.7501757740974426,183,275
+download.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/download.jpg,11,18,57,217,3,0.7733626365661621,183,275
+24.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/24.jpg,0,110,195,193,1,0.8749186396598816,195,259
+13.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/13.jpg,0,109,116,204,0,0.7340686321258545,184,273
+13.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/13.jpg,65,56,184,170,0,0.802205502986908,184,273
+17.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/17.jpg,43,168,150,212,1,0.44832202792167664,184,273
+17.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/17.jpg,0,177,184,200,1,0.6526610255241394,184,273
+download (5).jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/download (5).jpg,65,43,128,102,3,0.6545928120613098,185,273
+39.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/39.jpg,21,35,161,98,2,0.45782217383384705,181,279
+39.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/39.jpg,0,0,181,135,2,0.5361204743385315,181,279
+32.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/32.jpg,72,47,103,71,2,0.5562941431999207,182,277
+23.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/23.jpg,114,0,187,189,1,0.3209770917892456,267,189
+23.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/23.jpg,57,0,214,187,1,0.7539721727371216,267,189
+14.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/14.jpg,1,34,70,105,0,0.4113028645515442,184,274
+14.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/14.jpg,16,51,55,86,0,0.539207935333252,184,274
+14.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/14.jpg,123,51,178,86,0,0.6908100843429565,184,274
+14.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/14.jpg,70,101,112,206,0,0.7180047035217285,184,274
+s3.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/s3.jpg,125,98,168,127,6,0.2627444267272949,288,175
+h1.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/h1.jpg,29,0,74,61,5,0.25566989183425903,310,163
+h1.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/h1.jpg,246,40,271,80,3,0.33489200472831726,310,163
+download (8).jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/download (8).jpg,52,59,124,127,3,0.8733227252960205,183,275
+38.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/38.jpg,73,161,119,204,2,0.34365618228912354,184,273
+s1.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/s1.jpg,84,176,127,188,6,0.690496563911438,184,273
+h6.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/h6.jpg,22,50,154,186,4,0.7224661111831665,184,274
+h2.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/h2.jpg,37,20,212,142,4,0.39140254259109497,261,193
+h4.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/h4.jpg,0,29,189,71,4,0.5219293832778931,189,267
+30.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/30.jpg,72,0,163,155,1,0.889668345451355,225,225
+w11.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/w11.jpg,110,60,147,96,3,0.3390142321586609,184,273
+8.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/8.jpg,65,17,91,99,0,0.27113428711891174,184,273
+1.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/1.jpg,192,0,230,73,0,0.26761776208877563,300,168
+1.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/1.jpg,46,0,108,49,0,0.46456432342529297,300,168
+1.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/1.jpg,54,0,106,86,0,0.5732415914535522,300,168
+h8.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/h8.jpg,0,26,182,70,4,0.6785275340080261,182,277
+36.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/36.jpg,86,24,102,85,2,0.3233083486557007,183,275
+w8.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/w8.jpg,42,31,137,105,3,0.5752121806144714,181,278
+download (3).jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/download (3).jpg,50,28,83,69,3,0.35191401839256287,186,271
+images (1).jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/images (1).jpg,31,34,117,142,3,0.8239256739616394,184,274
+6.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/6.jpg,153,30,184,60,0,0.2558416426181793,184,274
+6.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/6.jpg,0,37,30,61,0,0.35419535636901855,184,274
+6.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/6.jpg,91,122,127,144,0,0.4393058717250824,184,274
+h7.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/h7.jpg,117,34,148,87,4,0.28522369265556335,201,251
+P2.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/P2.jpg,32,13,71,43,5,0.49282240867614746,187,270
+P2.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/P2.jpg,114,14,153,45,5,0.6680733561515808,187,270
+q1.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/q1.jpg,49,0,108,32,5,0.47433212399482727,286,176
+q1.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/q1.jpg,10,4,46,47,5,0.6544808745384216,286,176
+q1.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/q1.jpg,60,0,89,38,5,0.6608208417892456,286,176
+s4.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/s4.jpg,41,163,151,234,6,0.7257992029190063,189,267
+s4.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/s4.jpg,27,162,160,234,3,0.36433517932891846,189,267
+5.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/5.jpg,103,133,157,168,0,0.31437376141548157,189,267
+images (2).jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/images (2).jpg,62,13,125,152,3,0.8901489973068237,225,225
+10.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/10.jpg,0,142,77,247,0,0.34138432145118713,184,273
+10.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/10.jpg,102,128,163,212,0,0.38646847009658813,184,273
+images.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/images.jpg,22,133,134,193,3,0.7559562921524048,185,273
+15.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/15.jpg,45,42,70,71,1,0.5810979604721069,183,275
+h12.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/h12.jpg,0,49,180,182,4,0.6378186345100403,184,274
+images (6).jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/images (6).jpg,29,21,78,154,0,0.5446462035179138,311,162
+w6.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/w6.jpg,73,31,105,99,3,0.28710445761680603,184,273
+download (6).jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/download (6).jpg,135,9,177,61,3,0.8428341746330261,259,195
+29.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/29.jpg,45,11,110,225,1,0.25026625394821167,225,225
+29.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/29.jpg,7,39,140,221,1,0.26937592029571533,225,225
+31.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/31.jpg,53,148,79,194,1,0.33691465854644775,186,271
+images (4).jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/images (4).jpg,28,2,121,159,3,0.7190908789634705,184,273
+s6.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/s6.jpg,151,140,177,185,6,0.5093805193901062,194,259
+s7.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/s7.jpg,82,0,144,264,6,0.27209731936454773,191,264
+s7.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/s7.jpg,19,45,191,250,0,0.36746156215667725,191,264
+s7.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/s7.jpg,55,0,168,264,0,0.4157107472419739,191,264
+w2.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/w2.jpg,48,105,184,156,3,0.46599286794662476,184,273
+42.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/42.jpg,0,39,84,98,2,0.2957255244255066,203,248
+42.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/42.jpg,96,123,194,156,2,0.6197792291641235,203,248
+4.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/4.jpg,182,36,204,54,0,0.3451705276966095,275,183
+4.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/4.jpg,70,23,86,38,0,0.3555612862110138,275,183
+w9.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/w9.jpg,64,89,132,116,3,0.5881528854370117,200,252
+26.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/26.jpg,0,53,185,215,1,0.6352227330207825,185,272
+images (5).jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/images (5).jpg,55,23,183,90,3,0.5488613843917847,183,275
+q2.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/q2.jpg,63,21,86,50,5,0.32534992694854736,194,259
+27.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/27.jpg,0,6,187,129,1,0.28550148010253906,187,270
+q3.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/q3.jpg,62,4,83,38,5,0.4333791434764862,302,167
+h10.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/h10.jpg,29,0,74,61,5,0.25566989183425903,310,163
+h10.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/h10.jpg,246,40,271,80,3,0.33489200472831726,310,163
+3.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/3.jpg,105,57,169,133,0,0.6841243505477905,184,274
+3.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/3.jpg,13,23,75,182,0,0.9058417677879333,184,274
